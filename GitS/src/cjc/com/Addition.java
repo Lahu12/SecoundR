@@ -9,6 +9,11 @@ public class Addition {
 		c=a+b;
 		System.out.println("Addition "+c);
 
+	public void m1()
+		{
+		int d=a-b;
+		System.out.println("Division "+d);
+
 	}
 
 }
